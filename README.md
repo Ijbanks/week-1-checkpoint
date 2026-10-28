@@ -1,5 +1,7 @@
 # Week 1 Checkpoint
 
+Live Site: https://ijbanks.github.io/week-1-checkpoint/
+
 ## My setup
 - Operating system: Mac
 - Editor: VS Code
